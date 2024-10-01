@@ -9,7 +9,8 @@ print (round ((3**2),4)) #round
 print(3/2) #return Float value
 print(3//2) #return Integer Value
 print(3%2) #moduler
-#String
+#String--> collection of character
 nam1 = "Steve"
 nam2 = "Jobs"
-print(nam1 + nam2)
+print(nam1 + nam2) # printing two strings togethor
+print(nam1 + "9") # printing string with int
