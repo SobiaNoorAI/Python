@@ -12,7 +12,5 @@ print(3%2) #moduler
 #String--> collection of character
 nam1 = 'Steve' #single quotes
 nam2 = "Jobs" #double quotes
-print(nam1 + nam2) # printing two strings together
-print(nam1 + "\n"+ nam2) # \n for next line
-print(nam1 + "\t"+ nam2) # \t for tab space
-print(nam1 + " 9") # printing string with int
+print(nam1 + nam2) # printing two strings togethor
+print(nam1 + "9") # printing string with int
