@@ -20,3 +20,4 @@ print(nam2[-1]) # last character of str
 print(nam2.upper()) # convert str to uppercase  
 print(nam2.lower()) # convert str to lowercase  
 print(nam2.strip()) # Removing leading and trailing whitespaces
+print(nam2.replace("jobs", "jeff")) # replace substr
