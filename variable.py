@@ -14,3 +14,4 @@ nam1 = 'Steve' #single quotes
 nam2 = "Jobs" #double quotes
 print(nam1 + nam2) # printing two strings togethor
 print(nam1 + "9") # printing string with int
+print(len(nam2)) # length of string len()
