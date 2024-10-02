@@ -17,3 +17,4 @@ print(nam1 + "9") # printing string with int
 print(len(nam2)) # length of string len()
 print(nam2[0]) # 1st character of str
 print(nam2[-1]) # last character of str
+print(nam2.upper()) # convert str to uppercase  
