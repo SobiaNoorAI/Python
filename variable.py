@@ -18,3 +18,4 @@ print(len(nam2)) # length of string len()
 print(nam2[0]) # 1st character of str
 print(nam2[-1]) # last character of str
 print(nam2.upper()) # convert str to uppercase  
+print(nam2.lower()) # convert str to lowercase  
