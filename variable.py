@@ -20,4 +20,7 @@ print(list)
 # add element to list
 list.append(45)
 print(list)
+# Remove element to list
+list.remove(0)
+print(list)
 
