@@ -17,6 +17,8 @@ print(nam1 + "9") # printing string with int
 #list--> collection of different data, int, float, complex, list that can be modify
 list=[2.3,4,5,0,-3, 3+3j,[3,5]] #used [] bracket
 print(list)
+# access element of list
+print(list[1])
 # add element to list
 list.append(45)
 print(list)
