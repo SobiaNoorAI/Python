@@ -12,5 +12,12 @@ print(3%2) #moduler
 #String--> collection of character
 nam1 = 'Steve' #single quotes
 nam2 = "Jobs" #double quotes
-print(nam1 + nam2) # printing two strings togethor
+print(nam1 + nam2) # printing two strings together
 print(nam1 + "9") # printing string with int
+#list--> collection of different data, int, float, complex, list that can be modify
+list=[2.3,4,5,0,-3, 3+3j,[3,5]]
+print(list)
+# add element to list
+list.append(45)
+print(list)
+
