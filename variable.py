@@ -26,3 +26,7 @@ print(list)
 # clear all element from list
 list.clear()
 print(list)
+list=[2.3,4,5,0,-3, 3+3j,[3,5]]
+# change element in list
+list[2] =99
+print(list)
