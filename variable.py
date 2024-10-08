@@ -23,4 +23,6 @@ print(list)
 # Remove element to list
 list.remove(0)
 print(list)
-
+# clear all element from list
+list.clear()
+print(list)
