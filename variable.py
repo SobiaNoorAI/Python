@@ -15,7 +15,7 @@ nam2 = "Jobs" #double quotes
 print(nam1 + nam2) # printing two strings together
 print(nam1 + "9") # printing string with int
 #list--> collection of different data, int, float, complex, list that can be modify
-list=[2.3,4,5,0,-3, 3+3j,[3,5]]
+list=[2.3,4,5,0,-3, 3+3j,[3,5]] #used [] bracket
 print(list)
 # add element to list
 list.append(45)
@@ -30,3 +30,6 @@ list=[2.3,4,5,0,-3, 3+3j,[3,5]]
 # change element in list
 list[2] =99
 print(list)
+#tuple is similar to list but it cannot modify
+mytuple = (1.3,4,True,'root')#used () bracket
+print(mytuple)
